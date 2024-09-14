@@ -1,0 +1,5 @@
+username,password,expected_result
+Admin,admin123,dashboard
+Admin,wrongpassword,Invalid credentials
+,admin123,Username cannot be empty
+Admin,,Password cannot be empty
